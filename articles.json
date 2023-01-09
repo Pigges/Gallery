@@ -1,0 +1,39 @@
+[
+    {
+        "id": "b9c83e5c-ffbf-4d91-a26a-b8ae242e3c2e",
+        "title": "Robo Challenge",
+        "description": "RobotWars går till sin ända och sista klassen ut är #TE21 🦾 nästa vecka väntas stora finalen på julavslutningen 🏆 vi önskar alla deltagare lycka till 👊🏼 #NTI #ledandeieuropa inom #TECH<br/>👻 Utklädningsdag 💜inomochoch",
+        "images": [
+            "/img/robochallenge/balloonfight.webp",
+            "/img/robochallenge/alien.webp",
+            "/img/robochallenge/monstervsalien.webp",
+            "/img/robochallenge/spinner.webp",
+            "img/robochallenge/spinnerdown.webp"
+        ]
+    },
+    {
+        "id": "03e77b28-e33d-4f9c-b604-bc009113963f",
+        "title": "Lucia at NTI",
+        "description": "Årets luciatåg från #EEDAT 🌟 i år med egenskriven sång 🤩 vilka stjärnor #Lucia #NTI #GrymmaLärare och #GrymmaElever",
+        "images": [
+            "/img/lucia/lucia.webp"
+        ]
+    },
+    {
+        "id": "e9aaa985-911d-45be-b8ad-e39ea0bbd4a4",
+        "title": "Hockey Fans",
+        "description": "Årliga hockeymatchen för våra suveräna elever. Mat och match är pris för olika tävlingar vi har under året och detta är vinnarna från 21/22 💜🏒🥅",
+        "images": [
+            "/img/hockey/match.webp"
+        ]
+    },
+    {
+        "id": "ce0c0bee-e352-48dd-a984-4d18fd210519",
+        "title": "Halloween",
+        "description": "Lika kul varje år<br/>👻 Utklädningsdag 💜inomochoch",
+        "images": [
+            "/img/halloween/team.webp",
+            "/img/halloween/pastor.webp"
+        ]
+    }
+]

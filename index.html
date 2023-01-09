@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/css/styles.css">
+    <script defer src="/js/script.js"></script>
+    <title>Gallery</title>
+</head>
+<body>
+    <header class="unselectable">
+        <input type="checkbox" name="menu" id="menu">
+        <label id="menubtn" for="menu"></label>
+        <div class="content">
+            <div class="avatar">
+                <img src="/img/avatar.png" alt="NTI">
+            </div>
+            <div class="links">
+                <a href="#home"><p>Home</p><img src="/img/arrow.svg" alt="arrow"></a>
+                <a href="#articles"><p>Articles</p><img src="/img/arrow.svg" alt="arrow"></a>
+            </div>
+            <div class="links">
+                <a href="#about"><p>About</p><img src="/img/arrow.svg" alt="arrow"></a>
+                <a href="#contact"><p>Contact</p><img src="/img/arrow.svg" alt="arrow"></a>
+            </div>
+        </div>
+        <div class="social">
+            <a href="https://www.instagram.com/ntikarlstad/"><img src="/img/instagram.svg" alt="Instagram"></a>
+            <a href="https://www.ntigymnasiet.se/karlstad/"><img src="/img/website.svg" alt="Website"></a>
+        </div>
+    </header>
+    <main>
+        <div class="wrapper" id="home">
+            <h1>What is going on at NTI Gymnasiet Karlstad?</h1>
+            <div class="articles" id="articles"></div>
+        </div>
+        <div class="wrapper" id="about">
+            <h2>About NTI Karlstad</h2>
+            <p>Vårt mål är att vara ledande i Värmland inom TECH, IT och DESIGN. Vi ska ligga i framkant när det kommer till undervisning och teknik!</p>
+        </div>
+        <div class="wrapper" id="contact">
+            <form action="#">
+                <h2>Contact us</h2>
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email">
+                <label for="message">Message</label>
+                <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                <button>Send</button>
+            </form>
+        </div>
+    </main>
+</body>
+</html>
