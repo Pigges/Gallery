@@ -247,6 +247,7 @@ main .wrapper {
     padding: 20px;
     background-color: #72727E;
     border-radius: 10px;
+    animation: card 1s ease-in-out forwards;
 }
 
 .wrapper form input, .wrapper form textarea {
@@ -261,6 +262,7 @@ main .wrapper {
     margin: 20px auto;
     padding: 10px 20px;
     color: #000;
+    border-radius: 10px;
 }
 
 @media screen and (max-width: 1440px) {
